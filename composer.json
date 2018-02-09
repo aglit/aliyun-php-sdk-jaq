@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "qi-yu/aliyun-php-sdk-core": "~0.1"
+        "qi-yu/aliyun-php-sdk-core": "~1.0"
     },
     "minimum-stability": "stable",
     "autoload": {

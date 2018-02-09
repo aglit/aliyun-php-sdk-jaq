@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "12cf51409ec287c36485cd101b7d1be3",
+    "content-hash": "7a4de2e62124dc0d210d385b0da1db4f",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -239,7 +239,7 @@
         },
         {
             "name": "qi-yu/aliyun-php-sdk-core",
-            "version": "0.1",
+            "version": "1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aglit/aliyun-php-sdk-core.git",
